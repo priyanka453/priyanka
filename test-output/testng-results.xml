@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="38502" started-at="2019-10-07T06:28:41Z" finished-at="2019-10-07T06:29:19Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="38502" started-at="2019-10-07T06:28:41Z" finished-at="2019-10-07T06:29:19Z">
+      <class name="Casestudy.CaseStudy_1">
+        <test-method status="PASS" signature="startReport()[pri:0, instance:Casestudy.CaseStudy_1@d8355a8]" name="startReport" is-config="true" duration-ms="13122" started-at="2019-10-07T11:58:41Z" finished-at="2019-10-07T11:58:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startReport -->
+        <test-method status="PASS" signature="signup()[pri:1, instance:Casestudy.CaseStudy_1@d8355a8]" name="signup" duration-ms="7644" started-at="2019-10-07T11:58:54Z" finished-at="2019-10-07T11:59:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signup -->
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:Casestudy.CaseStudy_1@d8355a8]" name="getResult" is-config="true" duration-ms="441" started-at="2019-10-07T11:59:02Z" finished-at="2019-10-07T11:59:02Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=signup status=SUCCESS method=CaseStudy_1.signup()[pri:1, instance:Casestudy.CaseStudy_1@d8355a8] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method status="PASS" signature="signin()[pri:2, instance:Casestudy.CaseStudy_1@d8355a8]" name="signin" duration-ms="1478" started-at="2019-10-07T11:59:02Z" finished-at="2019-10-07T11:59:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signin -->
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:Casestudy.CaseStudy_1@d8355a8]" name="getResult" is-config="true" duration-ms="452" started-at="2019-10-07T11:59:04Z" finished-at="2019-10-07T11:59:04Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=signin status=SUCCESS method=CaseStudy_1.signin()[pri:2, instance:Casestudy.CaseStudy_1@d8355a8] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method status="PASS" signature="testcart()[pri:3, instance:Casestudy.CaseStudy_1@d8355a8]" name="testcart" duration-ms="5650" started-at="2019-10-07T11:59:04Z" finished-at="2019-10-07T11:59:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcart -->
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:Casestudy.CaseStudy_1@d8355a8]" name="getResult" is-config="true" duration-ms="460" started-at="2019-10-07T11:59:10Z" finished-at="2019-10-07T11:59:10Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testcart status=SUCCESS method=CaseStudy_1.testcart()[pri:3, instance:Casestudy.CaseStudy_1@d8355a8] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method status="PASS" signature="testPayment()[pri:4, instance:Casestudy.CaseStudy_1@d8355a8]" name="testPayment" duration-ms="8186" started-at="2019-10-07T11:59:10Z" finished-at="2019-10-07T11:59:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPayment -->
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:Casestudy.CaseStudy_1@d8355a8]" name="getResult" is-config="true" duration-ms="402" started-at="2019-10-07T11:59:18Z" finished-at="2019-10-07T11:59:19Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testPayment status=SUCCESS method=CaseStudy_1.testPayment()[pri:4, instance:Casestudy.CaseStudy_1@d8355a8] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method status="PASS" signature="endReport()[pri:0, instance:Casestudy.CaseStudy_1@d8355a8]" name="endReport" is-config="true" duration-ms="618" started-at="2019-10-07T11:59:19Z" finished-at="2019-10-07T11:59:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endReport -->
+      </class> <!-- Casestudy.CaseStudy_1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
